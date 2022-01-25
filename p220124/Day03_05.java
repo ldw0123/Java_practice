@@ -1,8 +1,8 @@
 // p.48 강제 형변환 예시
 
-package p220124_01;
+package p220124;
 
-public class Day03_02 {
+public class Day03_05 {
 	
 	public static void main(String[] args) {
 		

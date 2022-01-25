@@ -1,8 +1,8 @@
 // 변수의 범위
 
-package Chapter03;
+package p220124;
 
-public class ScopeEx {	 // 클래스 블럭
+public class Day03_03 {	 // 클래스 블럭
 	
 	int no; 	// 클래스 블럭 내에서 사용 가능한 변수
 	
