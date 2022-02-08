@@ -1,6 +1,8 @@
+// 3*3 ±¸±¸´Ü 1
+
 package p220127;
 
-public class Day06_ex03 {
+public class Day06_03 {
 
 	public static void main(String[] args) {
 

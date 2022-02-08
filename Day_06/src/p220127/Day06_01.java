@@ -2,7 +2,7 @@
 
 package p220127;
 
-public class Day06_ex01 {
+public class Day06_01 {
 
 	public static void main(String[] args) {
 		
